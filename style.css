@@ -1,0 +1,159 @@
+body{
+  background: linear-gradient(to bottom , #D2B4DE ,#DAF7A6);
+  margin:5%;
+}
+
+.tituloprincipal{
+  background-image: url("imagenes/fondo6.jpg");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size: 7em;
+
+  font-family: Courier, monospace, serif;
+  font-variant: small-caps;
+  font-size: 7em;
+  font-kerning: normal;
+  font-weight: bold;
+
+  text-align: center;
+  text-decoration: underline;
+}
+
+.intro{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 25px;
+  color: #000000;
+}
+
+.fotochipa1{
+  float: right;
+  width: 700px ;
+  border-radius: 8px;
+  border: black 2px solid;
+}
+
+.tituloingredientes{
+  font-family:Courier, monospace, serif;
+  font-size: 3em;
+  letter-spacing: 10px;
+  text-decoration: underline;
+  color: #6633FF;
+}
+
+.ingredientes{
+  font-family: 'Source Code Pro', monospace;
+  font-size: 20px;
+  color: #000000;
+}
+
+.tituloprocedimiento{
+  margin-top: 60px;
+  font-family:Courier, monospace, serif;
+  font-size: 3em;
+  letter-spacing: 10px;
+  text-decoration: underline;
+  color: #6666CC ;
+
+}
+
+.procedimiento{
+  font-family: 'Source Code Pro', monospace;
+  font-size: 20px;
+  color: #000000 ;
+
+}
+
+p{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.titulodatos{
+  background-image: url("imagenes/fondo7.jpg");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size: 6em;
+
+  font-family: Courier, monospace, serif;
+  font-variant: small-caps;
+  font-size: 6em;
+  font-kerning: normal;
+  font-weight: bold;
+
+  text-align: center;
+  text-decoration: underline;
+}
+
+.fotochipa2{
+  float: left;
+  width: 200px ;
+  border-radius: 8px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  border: black 2px solid;
+}
+
+.textodatos{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  color: #000000;
+
+}
+
+.titulotips{
+  text-align: center;
+  text-decoration: underline;
+  font-family: Courier, monospace, serif;
+  font-size: 50px;
+  color: #6633FF;
+
+}
+
+.textotips{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  color: #000000;
+  text-align: left;
+
+}
+
+.fotochipa3{
+  float: right;
+  width: 300px ;
+  border-radius: 8px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: black 2px solid;
+}
+
+.preguntafinal{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
+
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+
+}
+
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+
+}
+
+.carpincho{
+border-radius: 50%;
+width: 150px;
+float: right;
+border: black 2px solid;
+}
